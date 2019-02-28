@@ -12,3 +12,5 @@
 # submit "php artisan serve"
 
 # buka browser akses ke localhost:8000
+
+# tes
